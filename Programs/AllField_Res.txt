@@ -1,0 +1,1 @@
+# Il faut faire : [AllField[0], AllField[1], AllField[2], AllField[3], AllField[4], AllField[5], AllField[6], AllField[7], AllField[8], AllField[9],Height,Size,Field]=np.loadtxt('AllField_Res.txt')
